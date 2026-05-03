@@ -1,5 +1,3 @@
-Aqui está uma proposta de README.md para a sua classe de modelo, focada na estruturação de dados cadastrais:
-
 Entidade de Cadastro - Aplicação
 
 Este módulo contém a classe Aplicação, que serve como o modelo de dados centralizado para o armazenamento de informações cadastrais de pessoas físicas e jurídicas no sistema br.com.aplicacaojava.
